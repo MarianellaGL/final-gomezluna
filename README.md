@@ -45,3 +45,8 @@ docker rm examen-final-container
 ### Acceso
 
 Una vez ejecutado el contenedor, acceder a: `http://localhost:8080`
+
+### Imagenes de docker
+[DockerContainer.png](https://github.com/MarianellaGL/final-gomezluna/blob/686612d86487bfe213bb100337948fb6239fc143/DockerContainer.png)
+[DockerImage.png](https://github.com/MarianellaGL/final-gomezluna/blob/686612d86487bfe213bb100337948fb6239fc143/DockerImage.png)
+
